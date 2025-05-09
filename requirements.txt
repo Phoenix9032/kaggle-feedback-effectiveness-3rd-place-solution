@@ -6,3 +6,4 @@ wandb==0.12.15
 kaggle==1.5.12
 pynvml==11.4.1
 sentencepiece==0.1.95
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
