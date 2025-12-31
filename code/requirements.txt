@@ -2,7 +2,7 @@ accelerate
 pynvml
 sentencepiece
 bitsandbytes-cuda112
-transformers==4.19.2
+transformers==5.0.0rc1
 datasets
 pytorch-lightning
 pytorch-metric-learning
