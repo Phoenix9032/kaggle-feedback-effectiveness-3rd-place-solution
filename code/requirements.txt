@@ -6,3 +6,5 @@ transformers==4.19.2
 datasets
 pytorch-lightning
 pytorch-metric-learning
+torch>=2.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
